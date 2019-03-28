@@ -127,7 +127,7 @@ class LibertyQuest {
     }
 
     static void typeWrite(Scanner from, int delay) throws InterruptedException {
-        delay = 0;    // DEBUG use only.
+      //delay = 0;    // DEBUG use only.
         from.useDelimiter("");
         while (from.hasNext()) {
             if (from.hasNext("(\u0008)")) {
