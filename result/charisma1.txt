@@ -1,0 +1,24 @@
+
+"Dude, look at our team. Look at these guns. You're about as much of a threat
+as the mosquitoes this evening."
+
+The gang leader looks at you and his gang, and realizes just how right you are.
+
+<Gang Leader>
+    "We have nothing to lose. If we can take even one of your miserable lives
+    with us, we'll consider it a success."
+
+<You>
+    "There's no need for that. You join our team, and you can kill people who
+    actually mean you harm. We're gonna take down Dan Salvador and could use
+    some extra muscle. In exchange, you keep the gun and a spot near the top
+    of the political ladder. Sound good?"
+
+Your potential teammate ponders the possibility of more power than he's ever
+dreamed of. Of course you likely won't fulfill those promises, but the gang
+leader is too dense and too desperate to realize this.
+
+<Gang Leader>
+    "You have a deal."
+
+(Enter to continue)

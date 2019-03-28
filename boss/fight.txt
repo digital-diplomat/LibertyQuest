@@ -1,0 +1,20 @@
+
+================================================================================
+
+                     / \
+(x) - (x) - (x)  == | O |
+                     \ /
+
+You have reached the interior of the Grand Palace. As the evening leads many of
+the guards to bed, only the night watchmen remain.
+
+This is your last stand. How will you go about this?
+
+---
+
+(1) Take down the guards one by one until you find Salvador's chamber.
+(2) Convince the guards to join your cause instead of defending Salvador.
+(3) Solid Snake your way to Salvador himself.
+
+(1/2/3, Ctrl+C to quit)
+> 

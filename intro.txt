@@ -1,0 +1,18 @@
+ █                                           █████                             
+ █       █ █████  ██████ █████  █████ █   █ █     █ █    █ ██████  ████  █████ 
+ █       █ █    █ █      █    █   █    █ █  █     █ █    █ █      █        █   
+ █       █ █████  █████  █    █   █     █   █     █ █    █ █████   ████    █   
+ █       █ █    █ █      █████    █     █   █   █ █ █    █ █           █   █   
+ █       █ █    █ █      █   █    █     █   █    █  █    █ █      █    █   █   
+ ███████ █ █████  ██████ █    █   █     █    ████ █  ████  ██████  ████    █ 
+
+(C) Brennon Miller 2019
+Licensed under CC BY-SA 4.0
+
+DISCLAIMER: This is a satire, a vignette of the most extreme possible future for
+the United States. It is not meant to make any assumption about any group of
+people, regardless of affiliation or personal belief. My intent is to speak to
+today's increasingly divisive and identity-based political climate, and how it
+may be manipulated.
+
+Press Enter to begin.

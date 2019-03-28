@@ -1,0 +1,15 @@
+
+================================================================================
+
+                    / \
+(x) - (o) - ( ) == |   |
+                    \ /
+
+(Another encounter will happen here; I'm still working on it!)
+
+(1) Brute-force option
+(2) Persuasive option
+(3) Stealthy option
+
+(1/2/3, Ctrl+C to quit)
+> 

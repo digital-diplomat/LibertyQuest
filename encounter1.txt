@@ -1,0 +1,27 @@
+
+================================================================================
+
+                     / \
+(o) - ( ) - ( )  == |   |
+                     \ /
+
+You start out on the outskirts of what was once Washington D.C., since torn
+apart by countless riots and the looting sprees that followed. You lead a group
+of scouts down the streets, approaching the more populated (and heavily
+protected) section of Salvador's own personal city.
+
+A group of rioters approaches you and your team, and it appears they're looking
+for a fight. The leader walks up to you and gets in your face.
+
+<Gang Leader>
+    "Hey thanks, we could use some guns. Hand 'em over and we'll make sure your
+    death ain't TOO painful."
+
+---
+
+(1) "You'll have to take them from our cold, dead hands!"
+(2) "You have no chance. Join our mission, though, and you can keep the spoils."
+(3) (Signal to the team to make a quick escape.)
+
+(1/2/3, Ctrl+C to quit)
+> 

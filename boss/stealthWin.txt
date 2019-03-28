@@ -1,0 +1,34 @@
+
+You tell your team to follow your lead and stay silent. Working your way through
+the halls, you see corridors that look more and more like the house of that one
+president from back in 2016. As they appear more and more lavish, you know
+you're getting closer.
+
+You sneak effortlessly past countless guards and cameras.
+
+You find your way to Salvador's quarters, a lavish and gaudy room replacing the
+Oval Office with a personal bedroom. You wake the coward up with a Desert Eagle
+to his head.
+
+<You>
+    "Come quietly or I shoot."
+
+<Salvador>
+    "...wha... OH GOD! Guards!!!"
+
+Fortunately, your team is standing at the door, waiting. Any guards who approach
+know exactly what's going on, and that any sudden moves mean death for their
+glorious leader.
+
+<You>
+    "Your reign of selfishness and cowardice ends here. We're putting the US
+    Constitution back in place. First thing in the morning, we're broadcasting a
+    message to all Americans that they are free once more."
+
+With nothing left that Salvador and his cronies can do, your team takes turns
+sleeping through the night, keeping an eye on the world's second most powerful
+man (next only to China's leader). In the morning, Salvador broadcasts his
+surrender to the American people, and a new election is immediately called for
+the 50th President of the United States.
+
+(Enter to continue)

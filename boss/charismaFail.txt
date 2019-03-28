@@ -1,0 +1,13 @@
+
+You yell out for all the guards to hear.
+
+<You>
+    "Why are you fighting for this coward! He's ruining the lives of your fellow
+    man! We all need to take a stand an--"
+
+One of Salvador's sharpshooters, who has taken no interest in your appeal, has
+put a full metal jacket through your chest. As you gurgle your last breath, you
+see your team make a solid attempt at fighting back, but they are quickly
+outgunned and forced to surrender.
+
+(Enter to continue.)

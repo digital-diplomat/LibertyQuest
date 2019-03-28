@@ -1,0 +1,62 @@
+
+You call out, hoping someone reasonable will hear you.
+
+<You>
+    "I've come to make a deal! We mean you no harm!"
+
+You hear the sound of shuffling footsteps, and before you know it you have eight
+different M16s pointing in your direction. You know you only have a brief window
+of opportunity.
+
+<You>
+    "Why are you fighting for Salvador? What has he done for you?"
+
+One of the guards speaks for the rest.
+
+<Guard Leader>
+    "He's the reason we have these jobs. They're a relatively safe gig; NO ONE
+    comes after Salvador."
+
+<You>
+    "Well apparently you were wrong about that."
+
+<Guard Leader>
+    "Yeah, and you're a fool to think we'll let you get away with it."
+
+<You>
+    "If you stop us, more will come. We are the champions of the revolution, and
+    killing us will cause all hell to break loose. We can offer you the same
+    job, protecting a democratically elected leader. Otherwise you're only
+    contributing to the misery of your neighbors, your friends and families."
+
+<Guard Leader>
+    "Give me one good reason I shouldn't make Swiss cheese out of you and your
+    buddies right now."
+
+<You>
+    "Because I know you don't want to be known as the man who helped a ruthless
+    dictator keep power. You and all these other guards deserve a better legacy,
+    do you not?"
+
+The leader takes a moment to consider, and as if on cue Daniel Salvador emerges
+from his dormitory.
+
+<Salvador>
+    "Great job capturing these guys. Now kill them and we'll make a statement
+    tomorrow morning. You'll be a hero on the national video stream!"
+
+The guard leader looks to you solemnly, then back to Salvador.
+
+<Guard Leader>
+    "That wouldn't make me a hero."
+
+At the leader's command, the squad points its guns at Salvador. In shock, the
+dictator backs away slowly, hands in the air.
+
+The next morning, an announcement IS broadcast over the stream, but it doesn't
+announce the death of a team of rebels. Instead, the announcement is made that
+Salvador will step down and face life in prison, and that the US Constitution
+will be reinstated as the law of the land. You will forever be known as the hero
+whose silver tongue freed the people of America.
+
+(Enter to continue)

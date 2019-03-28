@@ -1,0 +1,20 @@
+
+You gun your way valiantly to Salvador's chamber, your team having trained for
+even the most dire of situations. You kick down the dictator's door just as he's
+waking up from the commotion outside.
+
+<Salvador>
+    *yawn* "What is the meaning of this?! I'm trying to sl--"
+
+Before he can even finish his sentence, you place a .44 Magnum directly between
+the coward's eyes. As he slumps back onto his bed, blood pooling onto his fine
+cashmere blankets, the guards immediately stop and back away slowly.
+
+The next morning, Salvador's former staff help you broadcast your successful
+mission to the people of the United States, lest they face the same fate as
+their god-emperor. Your small but determined team has just cut short the reign
+of a self-serving monarch. You will be hailed as American heroes for many
+centuries after your deaths, and Salvador's staff will spend the rest of their
+lives in federal prison.
+
+(Enter to continue)
