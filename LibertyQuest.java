@@ -100,14 +100,14 @@ class LibertyQuest {
             }
             break;
         case 2:
-            if (strength >= 2) {
+            if (charisma >= 2) {
                 fileReader = switchTo("boss/charismaWin.txt", currentFile);
             } else {
                 fileReader = switchTo("boss/charismaFail.txt", currentFile);
             }
             break;
         case 3:
-            if (strength >= 2) {
+            if (stealth >= 2) {
                 fileReader = switchTo("boss/stealthWin.txt", currentFile);
             } else {
                 fileReader = switchTo("boss/stealthFail.txt", currentFile);
