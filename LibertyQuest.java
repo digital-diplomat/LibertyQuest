@@ -113,7 +113,7 @@ class LibertyQuest {
                 fileReader = switchTo("boss/stealthFail.txt", currentFile);
             }
         }
-        typeWrite(currentFile);
+        typeWrite(fileReader, 16);
 
 
         /* ========================================================================== */
