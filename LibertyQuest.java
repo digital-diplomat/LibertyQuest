@@ -115,11 +115,11 @@ class LibertyQuest {
         }
         typeWrite(fileReader, 16);
         input.nextLine();           // Enter to continue.
-
-
+        
         /* ========================================================================== */
 
         // When done with the program.
+        System.out.println();
         System.out.println("Strength: " + strength);
         System.out.println("Charisma: " + charisma);
         System.out.println("Stealth:  " + stealth);
