@@ -114,6 +114,7 @@ class LibertyQuest {
             }
         }
         typeWrite(fileReader, 16);
+        input.nextLine();           // Enter to continue.
 
 
         /* ========================================================================== */
