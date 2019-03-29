@@ -113,6 +113,8 @@ class LibertyQuest {
                 fileReader = switchTo("boss/stealthFail.txt", currentFile);
             }
         }
+        typeWrite(currentFile);
+
 
         /* ========================================================================== */
 
@@ -128,6 +130,14 @@ class LibertyQuest {
         input.close();
     }
 
+    /**
+     * Prints text from a {@code Scanner} one letter at a time, with a variable
+     * length of time between each letter printed. Will also pause for a longer
+     * time at the end of sentences, and will delay when using backspace
+     * characters to simulate a correction.
+     * @param from {@code Scanner} from which to print text.
+     * @param delay the amount of time between individual letters.
+     */
     static void typeWrite(Scanner from, int delay) throws InterruptedException {
       //delay = 0;    // DEBUG use only.
         from.useDelimiter("");
@@ -145,6 +155,12 @@ class LibertyQuest {
         }
     }
 
+    /**
+     * A helper function to switch between files more easily, and to display an
+     * error if the file has been removed.
+     * @param name a relative path indicating the desired file to switch to.
+     * @param file the file to change.
+     */
     static Scanner switchTo(String name, File file) {
         try {
             file = new File(name);
