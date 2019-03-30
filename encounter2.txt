@@ -4,11 +4,26 @@
 (x) - (o) - ( ) == |   |
                     \ /
 
-(Another encounter will happen here; I'm still working on it!)
+Having taken care of the gang, your team continues through the wasteland until
+you've reached the downtown streets of Salvadale (the dictator has no creativity
+whatsoever). After your previous encounter, you've realized that concealing your
+weapons would be a much better tactic, and from a distance it seems as though
+you are simple street walkers.
 
-(1) Brute-force option
-(2) Persuasive option
-(3) Stealthy option
+Your team is unsure of where to go from here. The streets are not well- marked,
+having been neglected by a Dept. of Transportation that no longer exists.
+Nonetheless you know that wandering around enough will lead you to such a large
+and gaudy structure.
+
+One of Salvador's patrol cars has been creeping behind you for a while, and you
+fear the officer may be tracking your movements. After taking a lap around a
+block, it becomes clear that the car is suspiciously intent on following your
+path. There's no one else on this particular street: just you, your team, and
+whomever is in the patrol car. What do you do?
+
+(1) Take aim at the car; Salvador's henchmen deserve no mercy.
+(2) Approach the vehicle and ask what the deal is.
+(3) Try to get the car off your tail.
 
 (1/2/3, Ctrl+C to quit)
 >

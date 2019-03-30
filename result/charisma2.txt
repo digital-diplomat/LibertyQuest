@@ -1,4 +1,32 @@
 
-A result happens based on what you chose.
+You approach the car, very careful not to flash the Desert Eagle on your right
+hip.
+
+<You>
+    "Good evening, ma'am. I noticed you were following us; is there something I
+    can help you with?"
+
+<Officer>
+    "We've received reports of gang activity in the area. Wanted to make sure
+    you and your buddies weren't involved in any of that."
+
+<You>
+    "No, not at all. In fact we're tourists who wanted to see the Grand Palace
+    in person. I think we ended up in the wrong part of town."
+
+<Officer>
+    "What, you don't have GPS on your phone?"
+
+<You>
+    "I thought we could go without it. Makes the journey that much more
+    'adventure-like,' you know?"
+
+<Officer>
+    "Well that was a mistake. I'll tell you how to get to the Grand Palace, then
+    you need to get yourselves out of here before I take you in for questioning.
+    This is no place for 'tourists.'"
+
+The officer gives you the very info you need before continuing on her patrol.
+Your team is somewhat relieved they didn't need to get involved.
 
 (Enter to continue)

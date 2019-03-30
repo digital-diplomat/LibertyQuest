@@ -1,4 +1,12 @@
 
-A result happens based on what you chose.
+<You>
+    "Guys, we're being followed. We need to take a few back alleys and lose
+    this car."
+
+You team follows your lead, weaving through back streets and passages. You fear
+that your team might get lost in all the movement, but as you emerge from
+between a liquor store and a hair salon, you see the top of the Grand Palace
+over the horizon, a garish golden dome in place of -- and considerably higher in
+the air than -- the old White House. You can feel victory approaching.
 
 (Enter to continue)
