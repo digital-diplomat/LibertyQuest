@@ -4,11 +4,20 @@
 (x) - (x) - (o) == |   |
                     \ /
 
-(Another encounter will happen here; I'm still working on it!)
+The Grand Palace is just up ahead, and the area is swarming with armed guards.
+You know there's little chance of success if you decide to go Rambo, so you
+instead move nonchalantly around the perimeter, looking for a weak point in
+surveillance. You hear a voice from behind you.
 
-(1) Brute-force option
-(2) Persuasive option
-(3) Stealthy option
+There appears to be an open spot near the west wing, but it requires a key card
+to enter. The only people in possession of such key cards are the very cards
+that you have tried so desperately to avoid.
+
+What are you going to do about this?
+
+(1) Kill a guard in cold blood and take the card.
+(2) Make conversation with a guard while a team member steals the card.
+(3) Try to sneak into the building by some other means.
 
 (1/2/3, Ctrl+C to quit)
->
+> 
