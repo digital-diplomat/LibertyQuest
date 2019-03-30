@@ -11,33 +11,43 @@ import java.util.Scanner;
 class LibertyQuest {
 
     public static void main(String[] args) throws Exception {
+        int delay = 16;
         File currentFile = new File("intro.txt");
         Scanner fileReader = new Scanner(currentFile);
 
         byte strength = 0; // Player stats
         byte stealth = 0;
         byte charisma = 0;
-
+        
         int selection = 0;
         boolean validSelection = false; // Checks that selection is valid.
         Scanner input = new Scanner(System.in);
+
+        // Set delay value.
+        if (args.length > 0) {
+            try {
+                delay = Integer.parseInt(args[0]);
+            } catch (NumberFormatException e) {
+                // Keep delay at 0.
+            }
+        }
 
         typeWrite(fileReader, 0); // Title Screen
 
         input.nextLine(); // User presses Enter.
 
         fileReader = switchTo("prologue1.txt", currentFile);
-        typeWrite(fileReader, 24); // ...political turmoil...
+        typeWrite(fileReader, delay); // ...political turmoil...
         input.nextLine(); // Enter to continue
 
         fileReader = switchTo("prologue2.txt", currentFile);
-        typeWrite(fileReader, 24); // ...Daniel Salvador...
+        typeWrite(fileReader, delay); // ...Daniel Salvador...
         input.nextLine(); // Enter to continue
 
         // Start Gameplay!
         for (int i = 1; i <= 3; i++) {
             fileReader = switchTo(String.format("encounter%d.txt", i), currentFile);
-            typeWrite(fileReader, 16);
+            typeWrite(fileReader, delay);
 
             while (!validSelection) {
                 while (!input.hasNextInt()) {
@@ -57,17 +67,17 @@ class LibertyQuest {
             switch (selection) {
             case 1:
                 fileReader = switchTo(String.format("result/strength%d.txt", i), currentFile);
-                typeWrite(fileReader, 16);
+                typeWrite(fileReader, delay);
                 strength++;
                 break;
             case 2:
                 fileReader = switchTo(String.format("result/charisma%d.txt", i), currentFile);
-                typeWrite(fileReader, 16);
+                typeWrite(fileReader, delay);
                 charisma++;
                 break;
             case 3:
                 fileReader = switchTo(String.format("result/stealth%d.txt", i), currentFile);
-                typeWrite(fileReader, 16);
+                typeWrite(fileReader, delay);
                 stealth++;
             }
             input.nextLine();   // Enter to countinue
@@ -76,7 +86,7 @@ class LibertyQuest {
 
         // Boss Fight
         fileReader = switchTo("boss/fight.txt", currentFile);
-        typeWrite(fileReader, 16);
+        typeWrite(fileReader, delay);
         while (!validSelection) {
             while (!input.hasNextInt()) {
                 if (input.hasNext()) {
@@ -113,7 +123,7 @@ class LibertyQuest {
                 fileReader = switchTo("boss/stealthFail.txt", currentFile);
             }
         }
-        typeWrite(fileReader, 16);
+        typeWrite(fileReader, delay);
         input.nextLine();
         input.nextLine();           // Enter to continue.
 
@@ -141,7 +151,6 @@ class LibertyQuest {
      * @param delay the amount of time between individual letters.
      */
     static void typeWrite(Scanner from, int delay) throws InterruptedException {
-      //delay = 0;    // DEBUG use only.
         from.useDelimiter("");
         while (from.hasNext()) {
             if (from.hasNext("(\u0008)")) {
